@@ -1,0 +1,2 @@
+`estimate_average_spacing_per_gene.m` - this function estimates the average nucleosome spacing near the 5' end of each yeast gene.  
+The algorithm used to estimate the spacing was described in the Supplemental Material of *Ocampo et al. - Nucleic Acids Res. (2016)*, section "Estimation of nucleosome spacing". To obtain the Supplemental Material, please download the zip file from here: https://academic.oup.com/nar/article/44/10/4625/2515935#supplementary-data
